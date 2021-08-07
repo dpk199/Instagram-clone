@@ -1,0 +1,16 @@
+How to Run
+
+step 1 : Go to client folder , Run : npm start
+
+It will start the react server
+
+step 2 : Go to server folder, Run : node app.js "OR" 
+                                                                nodemon app.js
+
+It will start the backend server
+
+
+LOG IN DETAILS :
+
+EMAIL : dwarika@gmail.com
+PASS : 12345
